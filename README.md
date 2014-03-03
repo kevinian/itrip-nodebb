@@ -1,4 +1,4 @@
-Itrip-Home
+Itrip-NodeBB
 =====
 
 度假屋点评网（爱旅网）
@@ -7,8 +7,8 @@ Itrip-Home
 安装
 ----
 ```
-git clone https://github.com/kevinian/itrip-home
-cd itrip-home
+git clone https://github.com/kevinian/itrip-nodebb
+cd itrip-nodebb
 npm install
 ```
 
