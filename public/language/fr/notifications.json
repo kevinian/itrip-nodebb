@@ -1,0 +1,10 @@
+{
+    "title": "Notifications",
+    "no_notifs": "Vous n'avez aucune notification",
+    "see_all": "Voir toutes les notifications.",
+    "back_to_home": "Retour à NodeBB",
+    "outgoing_link": "Lien Sortant",
+    "outgoing_link_message": "Vous quitter NodeBB",
+    "continue_to": "Continuer vers",
+    "return_to": "Retour vers "
+}
